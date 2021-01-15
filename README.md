@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```
+```python
 def amin_safarini():
   skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'HTML & CSS': 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
