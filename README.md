@@ -11,6 +11,12 @@ def amin_safarini():
   return ∞
 ```
 
+# Connect with me:
+Website: www.aminsafarini.me
+Blog: www.aminsafarini.medium.com/
+LinkedIn: www.linkedin.com/in/aminsafarini/
+
+
 <!--
 **aminsafarini/aminsafarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
