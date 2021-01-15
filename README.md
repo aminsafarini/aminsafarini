@@ -2,7 +2,7 @@
 
 ```python
 def amin_safarini():
-  skills = ['Python', 'SQL', 'Linux', 'HTML', 'CSS']
+  languages = ['Python', 'SQL', 'Linux', 'HTML', 'CSS']
   ml_tools = ['Scikit-Learn', 'Pandas', 'Numpy']
   de_tools = ['Airflow', 'Elastic_Search', 'Flask', 'Docker']
   big_data = ['Spark', 'Hadoop', 'Hive']
