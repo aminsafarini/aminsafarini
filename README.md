@@ -12,8 +12,8 @@ def amin_safarini():
 ```
 
 ## Connect with me:
-Website: www.aminsafarini.me \n
-Blog: www.aminsafarini.medium.com/ \n
+Website: www.aminsafarini.me  
+Blog: www.aminsafarini.medium.com/  
 LinkedIn: www.linkedin.com/in/aminsafarini/
 
 
