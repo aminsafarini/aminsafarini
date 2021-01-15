@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+```
 def amin_safarini():
   skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'HTML & CSS': 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
   cloud_architecture = ['aws', 'gcp']
   active_blogger = True
   return ∞
-  
+```
+
 <!--
 **aminsafarini/aminsafarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
