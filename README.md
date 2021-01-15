@@ -11,9 +11,9 @@ def amin_safarini():
   return ∞
 ```
 
-# Connect with me:
-Website: www.aminsafarini.me
-Blog: www.aminsafarini.medium.com/
+## Connect with me:
+Website: www.aminsafarini.me \n
+Blog: www.aminsafarini.medium.com/ \n
 LinkedIn: www.linkedin.com/in/aminsafarini/
 
 
