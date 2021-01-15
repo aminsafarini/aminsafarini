@@ -7,7 +7,6 @@ def amin_safarini():
   de_tools = ['Airflow', 'Elastic_Search', 'Flask', 'Docker']
   big_data = ['Spark', 'Hadoop', 'Hive']
   cloud_architecture = ['aws', 'gcp']
-  active_blogger = True
   return ∞
 ```
 
