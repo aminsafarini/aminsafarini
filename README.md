@@ -2,8 +2,10 @@
 
 ```python
 def amin_safarini():
-  skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'HTML & CSS': 'Beginner'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
+  skills = ['Python', 'SQL', 'Linux', 'HTML', 'CSS']
+  ml_tools = ['Scikit-Learn', 'Pandas', 'Numpy']
+  de_tools = ['Airflow', 'Elastic_Search', 'Flask', 'Docker']
+  big_data = ['Spark', 'Hadoop', 'Hive']
   cloud_architecture = ['aws', 'gcp']
   active_blogger = True
   return ∞
