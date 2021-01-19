@@ -11,7 +11,8 @@ def amin_safarini():
   print('www.aminsafarini.me')
 ```
 
-## Connect with me:
+## Find me around the web 🌎:
+
 Website: www.aminsafarini.me  
 Blog: www.aminsafarini.medium.com/  
 LinkedIn: www.linkedin.com/in/aminsafarini/
