@@ -11,7 +11,7 @@ def amin_safarini():
   print('www.aminsafarini.me')
 ```
 
-## Find me around the web 🌎:
+### Find me around the web 🌎:
 
 Website: www.aminsafarini.me  
 Blog: www.aminsafarini.medium.com/  
