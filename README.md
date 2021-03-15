@@ -14,7 +14,6 @@ def amin_safarini():
 ### Find me around the web 🌎:
 
 Website: www.aminsafarini.me  
-Blog: www.aminsafarini.medium.com/  
 LinkedIn: www.linkedin.com/in/aminsafarini/
 
 
