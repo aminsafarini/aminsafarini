@@ -13,7 +13,6 @@ def amin_safarini():
 
 ### Find me around the web 🌎:
 
-Website: www.aminsafarini.me  
 LinkedIn: www.linkedin.com/in/aminsafarini/
 
 
