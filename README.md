@@ -4,8 +4,7 @@
 def amin_safarini():
   languages = ['Python', 'SQL', 'Linux', 'HTML', 'CSS']
   ml_tools = ['Scikit-Learn', 'Pandas', 'Numpy']
-  de_tools = ['Airflow', 'Elastic_Search', 'Flask', 'Docker']
-  big_data = ['Spark', 'Hadoop']
+  de_tools = ['Airflow', 'Spark', 'Flask', 'Docker']
   cloud_architecture = ['aws']
   
   print('www.aminsafarini.me')
