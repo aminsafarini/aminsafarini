@@ -2,15 +2,9 @@
 
 ```python
 def amin_safarini():
-  languages = ['Python', 'SQL']
-  de_tools = ['Airflow', 'Spark', 'Docker']
-  ml_tools = ['Scikit-Learn', 'Pandas', 'Numpy']
-  cloud_architecture = ['aws']
-  
-  print('www.aminsafarini.me')
+  print('a work in progress...')
 ```
 
-### Find me around the web 🌎:
 
 LinkedIn: www.linkedin.com/in/aminsafarini/
 
