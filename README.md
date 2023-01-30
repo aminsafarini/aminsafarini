@@ -6,7 +6,6 @@ def amin_safarini():
 ```
 
 
-LinkedIn: www.linkedin.com/in/aminsafarini/
 
 
 <!--
